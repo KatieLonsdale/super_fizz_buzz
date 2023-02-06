@@ -5,13 +5,14 @@ In this assignment you'll implement an algorithm that is actually used in some p
 
 A number has a corresponding output. The rules for determining the output are as follows:
 
-*   If it's evenly divisible by 3, 5, and 7 the output is `SuperFizzBuzz`
-*   If it's evenly divisible by 3 and 7 the output is `SuperFizz`
-*   If it's evenly divisible by 5 and 7 the output is `SuperBuzz`
-*   If it's evenly divisible by 3 and 5 the output is `FizzBuzz`
-*   If it's evenly divisible by 3, the output is `Fizz`
-*   If it's evenly divisible by 5, the output is `Buzz`
-*   If it's evenly divisible by 7, the output is `Super`
+*   If it's evenly divisible by 3, 5, and 7 the output is `SuperFizzBuzz` DONE
+*   If it's evenly divisible by 3 and 7 the output is `SuperFizz` DONE
+*   If it's evenly divisible by 5 and 7 the output is `SuperBuzz` DONE
+*   If it's evenly divisible by 3 and 5 the output is `FizzBuzz` DONE
+*   If it's evenly divisible by 3, the output is `Fizz` DONE
+*   If it's evenly divisible by 5, the output is `Buzz` DONE
+*   If it's evenly divisible by 7, the output is `Super` DONE
+
 *   Otherwise the output is just the number
 
 
